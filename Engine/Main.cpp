@@ -24,6 +24,7 @@
 
 //当你在C++看到#开头的语句，那基本就是要交给preprocessor处理的语句了
 //比如#Define等等
+//preprocessor处理后的文件叫做Translation Unit
 
 int WINAPI wWinMain( HINSTANCE hInst,HINSTANCE,LPWSTR pArgs,INT )
 {
